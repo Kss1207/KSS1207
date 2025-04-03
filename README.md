@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Kauan, tenho 24 anos e sou natural de São José dos Campos, São Paulo. Concluí o ensino médio na Faetec e atualmente curso Engenharia de Software na Estácio. Sou um entusiasta pela tecnologia, buscando avanços na área.
+Me chamo Kauan, tenho 24 anos e sou natural de São José dos Campos, São Paulo. Concluí o ensino médio na Faetec e atualmente curso Engenharia de Software. Sou um entusiasta pela tecnologia, buscando avanços.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -122,6 +122,11 @@ Me chamo Kauan, tenho 24 anos e sou natural de São José dos Campos, São Paulo
 
 <br/>
 <br/>
+  <a href="https://instagram.com/__kauansouza__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:kspaulista123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+</div>
 
 ### 📊 Estatísticas
 
